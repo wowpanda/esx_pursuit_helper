@@ -17,6 +17,7 @@ Press M key to deploy the tracker into the vehicle right in front of you and aga
 Description
 
 Main Features are..
+
 - deployable GPS Tracker via action key,
 - 4 stages of tracking and deployment:
   1. Deployed,
